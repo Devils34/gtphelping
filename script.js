@@ -1,11 +1,11 @@
 var od;
 
 var odds = {
-  'import': 0.10,
-  'common': 0.10,
-  'supercommon': 0.10,
-  'rare': 0.10,
-  'superrare': 0.10
+  'import': 0.03,
+  'common': 0.90,
+  'supercommon': 0.80,
+  'rare': 0.3,
+  'superrare': 0.3
 };
 
 var credits = 0;
